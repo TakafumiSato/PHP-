@@ -29,6 +29,7 @@ if (!isset($_SERVER['PHP_AUTH_USER'])){
 
 ?>
 
+// ログインするとここを表示
 <html>
 <head><title>PHP TEST</title></head>
 <body>
